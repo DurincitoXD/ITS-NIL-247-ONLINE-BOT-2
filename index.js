@@ -26,7 +26,7 @@ const bot = mineflayer.createBot({
   host: 'ChepasLand.aternos.me', 
   version: false, // U can replace with 1.16.5 for example, remember to use ', = '1.16.5'
   username: 'SG_SHOWRIYA', 
-  port: 37133, 
+  port: 54071, 
   plugins: [AutoAuth],
   AutoAuth: 'bot112022'
 })
